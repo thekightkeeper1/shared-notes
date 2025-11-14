@@ -1,1 +1,1 @@
-Hello world!
+Checkout the file [[Ubuntu Configuration]]
